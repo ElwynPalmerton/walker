@@ -14,6 +14,8 @@ function setup() {
     let saturation = random(80);
     let lightness = random(80);
     let alpha = random(1.0);
+
+
     // let hue = random(360);
     // let saturation = 50;
     // let lightness = 100;
