@@ -7,7 +7,7 @@ let walkers = [];
 let qty = 1000;
 
 function setup() {
-  createCanvas(displayWidth, displayHeight);
+  createCanvas(windowWidth, windowHeight);
 
   for (let x = 0; x < qty; x++) {
     let hue = random(360);
